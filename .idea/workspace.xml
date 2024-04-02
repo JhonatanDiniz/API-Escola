@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faba3969-5cdc-4886-adff-3496e82feb5b" name="Changes" comment="Criado models aluno e curso">
+    <list default="true" id="faba3969-5cdc-4886-adff-3496e82feb5b" name="Changes" comment="Criado admin aluno e curso">
+      <change afterPath="$PROJECT_DIR$/escola/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/API-Escola.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/API-Escola.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/escola/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,18 +28,49 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Django Server.API-Escola.executor": "Run",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Documents/Projetos/API-Escola/setup/settings.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "com.jetbrains.django.DjangoModulesConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="API-Escola" type="Python.DjangoServer" factoryName="Django server">
+      <module name="API-Escola" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="setup.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12 (Api-Escola)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -55,7 +87,8 @@
       <option name="presentableId" value="Default" />
       <updated>1712021984746</updated>
       <workItem from="1712021993224" duration="940000" />
-      <workItem from="1712052979387" duration="2349000" />
+      <workItem from="1712052979387" duration="3277000" />
+      <workItem from="1712071777415" duration="170000" />
     </task>
     <task id="LOCAL-00001" summary="Criado projeto">
       <option name="closed" value="true" />
@@ -73,15 +106,35 @@
       <option name="project" value="LOCAL" />
       <updated>1712054753511</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Criado admin aluno e curso">
+      <option name="closed" value="true" />
+      <created>1712056112309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712056112309</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Criado projeto" />
     <MESSAGE value="Criado models aluno e curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado models aluno e curso" />
+    <MESSAGE value="Criado admin aluno e curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado admin aluno e curso" />
   </component>
 </project>

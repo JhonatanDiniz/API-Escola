@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faba3969-5cdc-4886-adff-3496e82feb5b" name="Changes" comment="Criado admin aluno e curso">
-      <change afterPath="$PROJECT_DIR$/escola/serializer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/API-Escola.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/API-Escola.iml" afterDir="false" />
+    <list default="true" id="faba3969-5cdc-4886-adff-3496e82feb5b" name="Changes" comment="Criado serializers aluno e curso">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/escola/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +87,7 @@
       <updated>1712021984746</updated>
       <workItem from="1712021993224" duration="940000" />
       <workItem from="1712052979387" duration="3277000" />
-      <workItem from="1712071777415" duration="170000" />
+      <workItem from="1712071777415" duration="768000" />
     </task>
     <task id="LOCAL-00001" summary="Criado projeto">
       <option name="closed" value="true" />
@@ -114,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712056112309</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Criado serializers aluno e curso">
+      <option name="closed" value="true" />
+      <created>1712072002933</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712072002933</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +142,7 @@
     <MESSAGE value="Criado projeto" />
     <MESSAGE value="Criado models aluno e curso" />
     <MESSAGE value="Criado admin aluno e curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado admin aluno e curso" />
+    <MESSAGE value="Criado serializers aluno e curso" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado serializers aluno e curso" />
   </component>
 </project>

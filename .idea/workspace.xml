@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faba3969-5cdc-4886-adff-3496e82feb5b" name="Changes" comment="Criado recurso de matricula">
+    <list default="true" id="faba3969-5cdc-4886-adff-3496e82feb5b" name="Changes" comment="Criado funcionalidade para listar os cursos de um aluno">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/escola/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/serializer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/escola/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/views.py" afterDir="false" />
@@ -90,7 +90,7 @@
       <workItem from="1712021993224" duration="940000" />
       <workItem from="1712052979387" duration="3277000" />
       <workItem from="1712071777415" duration="1984000" />
-      <workItem from="1712144277782" duration="4621000" />
+      <workItem from="1712144277782" duration="6015000" />
     </task>
     <task id="LOCAL-00001" summary="Criado projeto">
       <option name="closed" value="true" />
@@ -148,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712186747807</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Criado funcionalidade para listar os cursos de um aluno">
+      <option name="closed" value="true" />
+      <created>1712188988197</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712188988197</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +181,7 @@
     <MESSAGE value="Criado viewsets aluno e curso" />
     <MESSAGE value="Configurado urls de aluno e curso" />
     <MESSAGE value="Criado recurso de matricula" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado recurso de matricula" />
+    <MESSAGE value="Criado funcionalidade para listar os cursos de um aluno" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado funcionalidade para listar os cursos de um aluno" />
   </component>
 </project>

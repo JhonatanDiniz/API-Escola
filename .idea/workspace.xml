@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="faba3969-5cdc-4886-adff-3496e82feb5b" name="Changes" comment="Configurado urls de aluno e curso">
+    <list default="true" id="faba3969-5cdc-4886-adff-3496e82feb5b" name="Changes" comment="Criado recurso de matricula">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/escola/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/escola/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/escola/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/serializer.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/escola/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/escola/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/setup/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup/urls.py" afterDir="false" />
@@ -92,7 +90,7 @@
       <workItem from="1712021993224" duration="940000" />
       <workItem from="1712052979387" duration="3277000" />
       <workItem from="1712071777415" duration="1984000" />
-      <workItem from="1712144277782" duration="3546000" />
+      <workItem from="1712144277782" duration="4621000" />
     </task>
     <task id="LOCAL-00001" summary="Criado projeto">
       <option name="closed" value="true" />
@@ -142,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712144613122</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Criado recurso de matricula">
+      <option name="closed" value="true" />
+      <created>1712186747806</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1712186747807</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +172,7 @@
     <MESSAGE value="Criado serializers aluno e curso" />
     <MESSAGE value="Criado viewsets aluno e curso" />
     <MESSAGE value="Configurado urls de aluno e curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configurado urls de aluno e curso" />
+    <MESSAGE value="Criado recurso de matricula" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado recurso de matricula" />
   </component>
 </project>
